@@ -1,0 +1,79 @@
+.customCard{
+    background: #3d3e43 !important;
+    color: white !important;
+    transition: all 0.25s;
+}
+.customCard:hover{
+    transform: scale(1.10);
+    background: #111111 !important;
+}
+.customCharDetails{
+    
+    background: #3d3e43 !important;
+    color: white !important;
+    
+}
+.customNav{
+    background: #111111 !important;
+
+}
+.onlineStatus{
+    width: 10px;
+    height: 10px;
+    background-color: green;
+    border-radius: 50%;
+    position: absolute;
+
+}
+
+.offlineStatus{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    
+}
+
+.unknownStatus{
+    width: 10px;
+    height: 10px;
+    background-color: orange;
+    border-radius: 50%;
+    position: absolute;
+
+    
+}
+
+.status{
+    transform: translate(5%,-30%);
+}
+
+.charTitle{
+    font-family: "Freeman", sans-serif !important;
+    font-weight: 100 !important;
+    font-size: xx-large;
+    font-style: normal;
+}
+
+
+.bgCardImage{
+    
+    /* background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.6)) !important;
+    background-position: center;
+    background-size: cover;
+    position: relative; */
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) !important;
+    background-position: center !important;
+    background-size: cover !important;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.pagination-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
