@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "https://rick-and-monty.onrender.com";
 
 export const UrlConstant = {
   searchURL: `${API_URL}/search/`,
