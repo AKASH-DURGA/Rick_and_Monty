@@ -59,7 +59,7 @@ export default function Character() {
     <div>
     <Navbar expand="lg" data-bs-theme="dark" className="d-flex bg-body-tertiary justify-content-between customNav">
       <Container>
-        <Navbar.Brand href="/">Rick and Monty</Navbar.Brand>
+        <Navbar.Brand href="/">Rick and Morty</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">

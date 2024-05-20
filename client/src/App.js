@@ -11,7 +11,7 @@ function App() {
       <BrowserRouter>
       <Routes>
         
-          <Route path='/' element={<Header title="Rick and Monty"/>} />
+          <Route path='/' element={<Header title="Rick and Morty"/>} />
           <Route path="/charinfo/:id" element={<Character/>} />
         
       </Routes>
