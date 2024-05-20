@@ -1,6 +1,6 @@
 # Rick and Morty
 
-This is a web application which has the details of all the characters of the animated science fiction sitcom Rick and Morty. This web application is build using React.js, express.js (for the API calls). The fronend and the backend has been deployed in Vercel and Render respectively.
+This is a web application which has the details of all the characters of the animated science fiction sitcom Rick and Morty. This web application is build using React.js(frontend), Express.js and Node.js (for the API calls and backend). The fronend and the backend has been deployed in Vercel and Render respectively.
 
 Deployed Website: https://rick-and-monty-nu.vercel.app/ 
 
